@@ -1,4 +1,4 @@
-# DisasterNav
+# RS-RoadlessNav
 
 A remote-sensing-driven framework for post-disaster emergency navigation, combining **topology-preserving generative disaster simulation** (Stable Diffusion 1.5 + xBD-LoRA + Canny-ControlNet) with **DH-HNA\***, a deep-heuristic hierarchical path replanner.
 
