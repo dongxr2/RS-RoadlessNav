@@ -2,7 +2,7 @@
 
 A remote-sensing-driven framework for post-disaster emergency navigation, combining **topology-preserving generative disaster simulation** (Stable Diffusion 1.5 + xBD-LoRA + Canny-ControlNet) with **DH-HNA\***, a deep-heuristic hierarchical path replanner.
 
-This repository accompanies the paper *"Generative Disaster Simulation and Deep Heuristic Hierarchical Path Replanning for Post-Disaster Emergency Navigation Using High-Resolution Remote Sensing Imagery"*, currently **under submission** to *GIScience & Remote Sensing*.
+This repository accompanies the paper *"Generative Disaster Simulation and Deep Heuristic Hierarchical Path Replanning for Post-Disaster Emergency Navigation Using High-Resolution Remote Sensing Imagery"*, currently **under submission** to *IEEE Transactions on Geoscience and Remote Sensing*.
 
 ## Code availability
 
